@@ -1,0 +1,8 @@
+Alice Jenkins
+Email: alice.j@example.com
+Phone: 555-4321
+Skills: React, JavaScript, HTML, CSS, TypeScript, Figma, UI/UX, Git.
+Experience:
+Frontend Engineer at DevCo (2023 - Present)
+- Designed and built user interfaces using React and CSS.
+- Optimized performance and collaborated with designers in Figma.
